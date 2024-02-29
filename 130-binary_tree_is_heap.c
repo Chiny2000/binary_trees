@@ -1,4 +1,4 @@
-130-binary_tree_is_heap.c
+
 #include "binary_trees.h"
 #include "102-binary_tree_is_complete.c"
 /**
